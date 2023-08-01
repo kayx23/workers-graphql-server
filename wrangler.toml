@@ -1,4 +1,4 @@
-name = "workers-graphql-server"
+name = "docs-graphql-server"
 type = "webpack"
 
 account_id = ""
